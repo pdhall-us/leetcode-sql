@@ -22,7 +22,7 @@ A structured collection of my solutions to **LeetCode SQL problems**, focused on
 | **#** | **Problem**                     | **Topics**       | **Solution**                                      |
 | ----- | ------------------------------- | ---------------- | ------------------------------------------------- |
 | 1757  | Recyclable and Low Fat Products | WHERE, AND       | [View](Easy/1757-Recyclable-and-Low-Fat-Products) |
-| 0584   | Find Customer Referee           | WHERE, AND, NULL | [View](Easy/0584-Find-Customer-Referee)            |
+| 0584   | Find Customer Referee           | WHERE, AND, NULL | [View](Easy/0584-find-customer-referee)            |
 
 ### 🟡 Medium
 
