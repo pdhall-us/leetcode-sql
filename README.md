@@ -24,7 +24,7 @@ A structured collection of my solutions to **LeetCode SQL problems**, focused on
 | 1757  | Recyclable and Low Fat Products | WHERE, AND       | [View](Easy/1757-Recyclable-and-Low-Fat-Products) |
 | 584   | Find Customer Referee           | WHERE, AND, NULL | [View](Easy/584-Find-Customer-Referee)            |
 | 595   | Big Countries                   | WHERE, OR        | [View](Easy/595-Big-Countries)                    |
-| 1148  | Article Views I                 | WHERE, DISTINCT  | [View](Easy/1148-article-views-I)                 |
+| 1148  | Article Views I                 | WHERE, DISTINCT  | [View](Easy/1148-article-views-i)                 |
 
 ### 🟡 Medium
 
