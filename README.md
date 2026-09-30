@@ -2,72 +2,68 @@
 
 A structured collection of my solutions to **LeetCode SQL problems**, focused on improving my understanding of **SQL concepts, database querying, problem-solving techniques, and query optimization**.
 
----
-
 ## 📊 Progress
 
 | **Difficulty** | **Solved** |
 | -------------- | ---------- |
-| 🟢 Easy        | 6          |
+| 🟢 Easy        | 7          |
 | 🟡 Medium      | 0          |
 | 🔴 Hard        | 0          |
-| **Total**      | **6**      |
-
----
+| **Total**      | **7**      |
 
 ## 📚 Problems
 
 ### 🟢 Easy
 
-| **#** | **Problem**                     | **Topics**           | **Solution**                                      |
-| ----- | ------------------------------- | -------------------- | ------------------------------------------------- |
-| 1757  | Recyclable and Low Fat Products | WHERE, AND           | [View](Easy/1757-Recyclable-and-Low-Fat-Products) |
-| 584   | Find Customer Referee           | WHERE, AND, NULL     | [View](Easy/584-Find-Customer-Referee)            |
-| 595   | Big Countries                   | WHERE, OR            | [View](Easy/595-Big-Countries)                    |
-| 1148  | Article Views I                 | WHERE, DISTINCT      | [View](Easy/1148-Article-Views-I)                 |
-| 1683  | Invalid Tweets                  | WHERE, LENGTH        | [View](Easy/1683-Invalid-Tweets)                  |
-| 620   | Not Boring Movies               | WHERE, MOD, ORDER BY | [View](Easy/620-not-boring-movies)                |
+| #    | Problem                                  | Topics                | Solution                                                   |
+| ---- | ---------------------------------------- | --------------------- | ---------------------------------------------------------- |
+| 1757 | Recyclable and Low Fat Products          | WHERE, AND            | [View](Easy/1757-Recyclable-and-Low-Fat-Products)          |
+| 584  | Find Customer Referee                    | WHERE, AND, NULL      | [View](Easy/584-Find-Customer-Referee)                     |
+| 595  | Big Countries                            | WHERE, OR             | [View](Easy/595-Big-Countries)                             |
+| 1148 | Article Views I                          | WHERE, DISTINCT       | [View](Easy/1148-Article-Views-I)                          |
+| 1683 | Invalid Tweets                           | WHERE, LENGTH         | [View](Easy/1683-Invalid-Tweets)                           |
+| 620  | Not Boring Movies                        | WHERE, MOD, ORDER BY  | [View](Easy/620-Not-Boring-Movies)                         |
+| 1978 | Employees Whose Manager Left the Company | WHERE, NULL, ORDER BY | [View](Easy/1978-Employees-Whose-Manager-Left-the-Company) |
 
 ### 🟡 Medium
 
-| **#** | **Problem** | **Topics** | **Solution** |
-| ----- | ----------- | ---------- | ------------ |
+No problems solved yet.
 
 ### 🔴 Hard
 
-| **#** | **Problem** | **Topics** | **Solution** |
-| ----- | ----------- | ---------- | ------------ |
+No problems solved yet.
 
----
-
-## 🗂️ Repository Structure
+## 📁 Repository Structure
 
 ```text
 leetcode-sql/
-
 │
 ├── Easy/
-│   ├── 1757-recyclable-and-low-fat-products/
+│   ├── 1757-Recyclable-and-Low-Fat-Products/
 │   │   ├── README.md
 │   │   └── solution.sql
 │   │
-│   ├── 584-find-customer-referee/
+│   ├── 584-Find-Customer-Referee/
 │   │   ├── README.md
 │   │   └── solution.sql
 │   │
-│   ├── 595-big-countries/
+│   ├── 595-Big-Countries/
 │   │   ├── README.md
 │   │   └── solution.sql
 │   │
-│   ├── 1148-article-views-i/
+│   ├── 1148-Article-Views-I/
 │   │   ├── README.md
 │   │   └── solution.sql
 │   │
-│   ├── 1683-invalid-tweets/
+│   ├── 1683-Invalid-Tweets/
 │   │   ├── README.md
 │   │   └── solution.sql
 │   │
-│   └── 620-not-boring-movies/
+│   ├── 620-Not-Boring-Movies/
+│   │   ├── README.md
+│   │   └── solution.sql
+│   │
+│   └── 1978-Employees-Whose-Manager-Left-the-Company/
 │       ├── README.md
 │       └── solution.sql
 │
