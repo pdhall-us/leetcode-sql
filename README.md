@@ -8,10 +8,10 @@ A structured collection of my solutions to **LeetCode SQL problems**, focused on
 
 | **Difficulty** | **Solved** |
 | -------------- | ---------- |
-| 🟢 Easy        | 2          |
+| 🟢 Easy        | 3          |
 | 🟡 Medium      | 0          |
 | 🔴 Hard        | 0          |
-| **Total**      | **2**      |
+| **Total**      | **3**      |
 
 ---
 
@@ -22,7 +22,8 @@ A structured collection of my solutions to **LeetCode SQL problems**, focused on
 | **#** | **Problem**                     | **Topics**       | **Solution**                                      |
 | ----- | ------------------------------- | ---------------- | ------------------------------------------------- |
 | 1757  | Recyclable and Low Fat Products | WHERE, AND       | [View](Easy/1757-Recyclable-and-Low-Fat-Products) |
-| 0584   | Find Customer Referee           | WHERE, AND, NULL | [View](Easy/0584-find-customer-referee)            |
+| 584   | Find Customer Referee           | WHERE, AND, NULL | [View](Easy/584-Find-Customer-Referee)            |
+| 595   | Big Countries                   | WHERE, OR        | [View](Easy/595-big-countries)                    |
 
 ### 🟡 Medium
 
@@ -47,7 +48,11 @@ leetcode-sql/
 │   │   ├── README.md
 │   │   └── solution.sql
 │   │
-│   └── 584-find-customer-referee/
+│   ├── 584-find-customer-referee/
+│   │   ├── README.md
+│   │   └── solution.sql
+│   │
+│   └── 595-big-countries/
 │       ├── README.md
 │       └── solution.sql
 │
