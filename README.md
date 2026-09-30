@@ -8,10 +8,10 @@ A structured collection of my solutions to **LeetCode SQL problems**, focused on
 
 | **Difficulty** | **Solved** |
 | -------------- | ---------- |
-| 🟢 Easy        | 4          |
+| 🟢 Easy        | 6          |
 | 🟡 Medium      | 0          |
 | 🔴 Hard        | 0          |
-| **Total**      | **4**      |
+| **Total**      | **6**      |
 
 ---
 
@@ -19,12 +19,14 @@ A structured collection of my solutions to **LeetCode SQL problems**, focused on
 
 ### 🟢 Easy
 
-| **#** | **Problem**                     | **Topics**       | **Solution**                                      |
-| ----- | ------------------------------- | ---------------- | ------------------------------------------------- |
-| 1757  | Recyclable and Low Fat Products | WHERE, AND       | [View](Easy/1757-Recyclable-and-Low-Fat-Products) |
-| 584   | Find Customer Referee           | WHERE, AND, NULL | [View](Easy/584-Find-Customer-Referee)            |
-| 595   | Big Countries                   | WHERE, OR        | [View](Easy/595-Big-Countries)                    |
-| 1148  | Article Views I                 | WHERE, DISTINCT  | [View](Easy/1148-article-views-i)                 |
+| **#** | **Problem**                     | **Topics**           | **Solution**                                      |
+| ----- | ------------------------------- | -------------------- | ------------------------------------------------- |
+| 1757  | Recyclable and Low Fat Products | WHERE, AND           | [View](Easy/1757-Recyclable-and-Low-Fat-Products) |
+| 584   | Find Customer Referee           | WHERE, AND, NULL     | [View](Easy/584-Find-Customer-Referee)            |
+| 595   | Big Countries                   | WHERE, OR            | [View](Easy/595-Big-Countries)                    |
+| 1148  | Article Views I                 | WHERE, DISTINCT      | [View](Easy/1148-Article-Views-I)                 |
+| 1683  | Invalid Tweets                  | WHERE, LENGTH        | [View](Easy/1683-Invalid-Tweets)                  |
+| 620   | Not Boring Movies               | WHERE, MOD, ORDER BY | [View](Easy/620-not-boring-movies)                |
 
 ### 🟡 Medium
 
@@ -57,7 +59,15 @@ leetcode-sql/
 │   │   ├── README.md
 │   │   └── solution.sql
 │   │
-│   └── 1148-article-views-i/
+│   ├── 1148-article-views-i/
+│   │   ├── README.md
+│   │   └── solution.sql
+│   │
+│   ├── 1683-invalid-tweets/
+│   │   ├── README.md
+│   │   └── solution.sql
+│   │
+│   └── 620-not-boring-movies/
 │       ├── README.md
 │       └── solution.sql
 │
