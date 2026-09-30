@@ -8,10 +8,10 @@ A structured collection of my solutions to **LeetCode SQL problems**, focused on
 
 | **Difficulty** | **Solved** |
 | -------------- | ---------- |
-| 🟢 Easy        | 1          |
+| 🟢 Easy        | 2          |
 | 🟡 Medium      | 0          |
 | 🔴 Hard        | 0          |
-| **Total**      | **1**      |
+| **Total**      | **2**      |
 
 ---
 
@@ -19,9 +19,10 @@ A structured collection of my solutions to **LeetCode SQL problems**, focused on
 
 ### 🟢 Easy
 
-| **#** | **Problem**                     | **Topics** | **Solution**                                      |
-| ----- | ------------------------------- | ---------- | ------------------------------------------------- |
-| 1757  | Recyclable and Low Fat Products | WHERE, AND | [View](Easy/1757-Recyclable-and-Low-Fat-Products) |
+| **#** | **Problem**                     | **Topics**       | **Solution**                                      |
+| ----- | ------------------------------- | ---------------- | ------------------------------------------------- |
+| 1757  | Recyclable and Low Fat Products | WHERE, AND       | [View](Easy/1757-Recyclable-and-Low-Fat-Products) |
+| 0584   | Find Customer Referee           | WHERE, AND, NULL | [View](Easy/0584-Find-Customer-Referee)            |
 
 ### 🟡 Medium
 
@@ -42,7 +43,11 @@ leetcode-sql/
 
 │
 ├── Easy/
-│   └── 1757-recyclable-and-low-fat-products/
+│   ├── 1757-recyclable-and-low-fat-products/
+│   │   ├── README.md
+│   │   └── solution.sql
+│   │
+│   └── 584-find-customer-referee/
 │       ├── README.md
 │       └── solution.sql
 │
