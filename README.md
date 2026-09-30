@@ -21,7 +21,7 @@ A structured collection of my solutions to **LeetCode SQL problems**, focused on
 
 | **#** | **Problem**                     | **Topics** | **Solution**                                      |
 | ----- | ------------------------------- | ---------- | ------------------------------------------------- |
-| 1757  | Recyclable and Low Fat Products | WHERE, AND | [View](Easy/1757-recyclable-and-low-fat-products) |
+| 1757  | Recyclable and Low Fat Products | WHERE, AND | [View](Easy/1757-Recyclable-and-Low-Fat-Products) |
 
 ### 🟡 Medium
 
