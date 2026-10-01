@@ -6,10 +6,10 @@ A structured collection of my solutions to **LeetCode SQL problems**, focused on
 
 | **Difficulty** | **Solved** |
 | -------------- | ---------- |
-| 🟢 Easy        | 10         |
+| 🟢 Easy        | 11         |
 | 🟡 Medium      | 0          |
 | 🔴 Hard        | 0          |
-| **Total**      | **10**     |
+| **Total**      | **11**     |
 
 ## 📚 Problems
 
@@ -24,6 +24,7 @@ A structured collection of my solutions to **LeetCode SQL problems**, focused on
 | 1141 | User Activity for the Past 30 Days I              | WHERE, GROUP BY, COUNT, DISTINCT | [View](Easy/1141-user-activity-for-the-past-30-days-i) |
 | 1148 | Article Views I                                   | WHERE, DISTINCT                  | [View](Easy/1148-article-views-i) |
 | 1683 | Invalid Tweets                                    | WHERE, LENGTH                    | [View](Easy/1683-invalid-tweets) |
+| 1729 | Find Followers Count                              | GROUP BY, COUNT, ORDER BY        | [View](Easy/1729-find-followers-count) |
 | 1757 | Recyclable and Low Fat Products                   | WHERE, AND                       | [View](Easy/1757-Recyclable-and-Low-Fat-Products) |
 | 1978 | Employees Whose Manager Left the Company          | WHERE, NULL, ORDER BY            | [View](Easy/1978-employees-whose-manager-left-the-company) |
 | 2356 | Number of Unique Subjects Taught by Each Teacher  | GROUP BY, COUNT, DISTINCT        | [View](Easy/2356-number-of-unique-subjects-taught-by-each-teacher) |
