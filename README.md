@@ -6,26 +6,27 @@ A structured collection of my solutions to **LeetCode SQL problems**, focused on
 
 | **Difficulty** | **Solved** |
 | -------------- | ---------- |
-| 🟢 Easy        | 9          |
+| 🟢 Easy        | 10         |
 | 🟡 Medium      | 0          |
 | 🔴 Hard        | 0          |
-| **Total**      | **9**      |
+| **Total**      | **10**     |
 
 ## 📚 Problems
 
 ### 🟢 Easy
 
-| #    | Problem                                           | Topics                    | Solution |
-| ---- | ------------------------------------------------- | ------------------------- | -------- |
-| 584  | Find Customer Referee                             | WHERE, AND, NULL          | [View](Easy/0584-find-customer-referee) |
-| 595  | Big Countries                                     | WHERE, OR                 | [View](Easy/595-big-countries) |
-| 620  | Not Boring Movies                                 | WHERE, MOD, ORDER BY      | [View](Easy/620-not-boring-movies) |
+| #    | Problem                                           | Topics                           | Solution |
+| ---- | ------------------------------------------------- | -------------------------------- | -------- |
+| 584  | Find Customer Referee                             | WHERE, AND, NULL                 | [View](Easy/0584-find-customer-referee) |
+| 595  | Big Countries                                     | WHERE, OR                        | [View](Easy/595-big-countries) |
+| 596  | Classes With at Least 5 Students                  | GROUP BY, COUNT, HAVING          | [View](Easy/596-classes-with-at-least-5-students) |
+| 620  | Not Boring Movies                                 | WHERE, MOD, ORDER BY             | [View](Easy/620-not-boring-movies) |
 | 1141 | User Activity for the Past 30 Days I              | WHERE, GROUP BY, COUNT, DISTINCT | [View](Easy/1141-user-activity-for-the-past-30-days-i) |
-| 1148 | Article Views I                                   | WHERE, DISTINCT           | [View](Easy/1148-article-views-i) |
-| 1683 | Invalid Tweets                                    | WHERE, LENGTH             | [View](Easy/1683-invalid-tweets) |
-| 1757 | Recyclable and Low Fat Products                   | WHERE, AND                | [View](Easy/1757-Recyclable-and-Low-Fat-Products) |
-| 1978 | Employees Whose Manager Left the Company          | WHERE, NULL, ORDER BY     | [View](Easy/1978-employees-whose-manager-left-the-company) |
-| 2356 | Number of Unique Subjects Taught by Each Teacher  | GROUP BY, COUNT, DISTINCT | [View](Easy/2356-number-of-unique-subjects-taught-by-each-teacher) |
+| 1148 | Article Views I                                   | WHERE, DISTINCT                  | [View](Easy/1148-article-views-i) |
+| 1683 | Invalid Tweets                                    | WHERE, LENGTH                    | [View](Easy/1683-invalid-tweets) |
+| 1757 | Recyclable and Low Fat Products                   | WHERE, AND                       | [View](Easy/1757-Recyclable-and-Low-Fat-Products) |
+| 1978 | Employees Whose Manager Left the Company          | WHERE, NULL, ORDER BY            | [View](Easy/1978-employees-whose-manager-left-the-company) |
+| 2356 | Number of Unique Subjects Taught by Each Teacher  | GROUP BY, COUNT, DISTINCT        | [View](Easy/2356-number-of-unique-subjects-taught-by-each-teacher) |
 
 ### 🟡 Medium
 
