@@ -6,10 +6,10 @@ A structured collection of my solutions to **LeetCode SQL problems**, focused on
 
 | **Difficulty** | **Solved** |
 | -------------- | ---------- |
-| 🟢 Easy        | 13         |
+| 🟢 Easy        | 14         |
 | 🟡 Medium      | 4          |
 | 🔴 Hard        | 0          |
-| **Total**      | **17**     |
+| **Total**      | **18**     |
 
 ## 📚 Problems
 
@@ -17,6 +17,7 @@ A structured collection of my solutions to **LeetCode SQL problems**, focused on
 
 | #    | Problem                                           | Topics                           | Solution |
 | ---- | ------------------------------------------------- | -------------------------------- | -------- |
+| 196  | Delete Duplicate Emails                           | DELETE, SELF JOIN                | [View](Easy/196-delete-duplicate-emails) |
 | 584  | Find Customer Referee                             | WHERE, AND, NULL                 | [View](Easy/0584-find-customer-referee) |
 | 595  | Big Countries                                     | WHERE, OR                        | [View](Easy/595-big-countries) |
 | 596  | Classes With at Least 5 Students                  | GROUP BY, COUNT, HAVING          | [View](Easy/596-classes-with-at-least-5-students) |
