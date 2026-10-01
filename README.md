@@ -7,9 +7,9 @@ A structured collection of my solutions to **LeetCode SQL problems**, focused on
 | **Difficulty** | **Solved** |
 | -------------- | ---------- |
 | 🟢 Easy        | 12         |
-| 🟡 Medium      | 1          |
+| 🟡 Medium      | 2          |
 | 🔴 Hard        | 0          |
-| **Total**      | **13**     |
+| **Total**      | **14**     |
 
 ## 📚 Problems
 
@@ -32,9 +32,10 @@ A structured collection of my solutions to **LeetCode SQL problems**, focused on
 
 ### 🟡 Medium
 
-| #    | Problem                    | Topics                  | Solution |
-| ---- | -------------------------- | ----------------------- | -------- |
-| 1070 | Product Sales Analysis III | GROUP BY, MIN, SUBQUERY | [View](Medium/1070-product-sales-analysis-iii) |
+| #    | Problem                    | Topics                                  | Solution |
+| ---- | -------------------------- | --------------------------------------- | -------- |
+| 1070 | Product Sales Analysis III | GROUP BY, MIN, SUBQUERY                 | [View](Medium/1070-product-sales-analysis-iii) |
+| 1193 | Monthly Transactions I     | GROUP BY, COUNT, SUM, CASE, DATE_FORMAT | [View](Medium/1193-monthly-transactions-i) |
 
 ### 🔴 Hard
 
