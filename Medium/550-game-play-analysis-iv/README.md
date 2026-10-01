@@ -1,0 +1,60 @@
+# 550. Game Play Analysis IV
+
+**Difficulty:** Medium
+
+## Problem
+
+Write a solution to report the fraction of players that logged in again on the day after the day they first logged in.
+
+In other words:
+
+- Find the first login date for each player.
+- Determine whether the player logged in again on the immediately following day.
+- Divide the number of such players by the total number of players.
+
+Round the result to 2 decimal places.
+
+## Table: `Activity`
+
+| Column Name    | Type |
+| -------------- | ---- |
+| `player_id`    | int  |
+| `device_id`    | int  |
+| `event_date`   | date |
+| `games_played` | int  |
+
+`(player_id, event_date)` is the primary key (a combination of columns with unique values) for this table.
+
+This table shows the activity of players of some games.
+
+Each row represents a player who logged in and played a number of games (possibly 0) before logging out on a particular day using some device.
+
+## Example 1
+
+**Input:**
+
+**Activity table:**
+
+| player_id | device_id | event_date | games_played |
+| --------: | --------: | ---------- | -----------: |
+| 1         | 2         | 2016-03-01 | 5            |
+| 1         | 2         | 2016-03-02 | 6            |
+| 2         | 3         | 2017-06-25 | 1            |
+| 3         | 1         | 2016-03-02 | 0            |
+| 3         | 4         | 2018-07-03 | 5            |
+
+**Output:**
+
+| fraction |
+| -------: |
+| 0.33     |
+
+**Explanation:**
+
+- Player 1 first logged in on `2016-03-01` and logged in again on `2016-03-02`, which is the next day.
+- Player 2 did not log in again on the day after their first login.
+- Player 3 did not log in again on the day after their first login.
+
+Only 1 out of 3 players logged in again on the day immediately following their first login.
+
+Therefore, the fraction is `1 / 3 = 0.33`.
