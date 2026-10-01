@@ -6,10 +6,10 @@ A structured collection of my solutions to **LeetCode SQL problems**, focused on
 
 | **Difficulty** | **Solved** |
 | -------------- | ---------- |
-| 🟢 Easy        | 12         |
+| 🟢 Easy        | 13         |
 | 🟡 Medium      | 4          |
 | 🔴 Hard        | 0          |
-| **Total**      | **16**     |
+| **Total**      | **17**     |
 
 ## 📚 Problems
 
@@ -24,6 +24,7 @@ A structured collection of my solutions to **LeetCode SQL problems**, focused on
 | 620  | Not Boring Movies                                 | WHERE, MOD, ORDER BY             | [View](Easy/620-not-boring-movies) |
 | 1141 | User Activity for the Past 30 Days I              | WHERE, GROUP BY, COUNT, DISTINCT | [View](Easy/1141-user-activity-for-the-past-30-days-i) |
 | 1148 | Article Views I                                   | WHERE, DISTINCT                  | [View](Easy/1148-article-views-i) |
+| 1527 | Patients With a Condition                         | WHERE, LIKE                      | [View](Easy/1527-patients-with-a-condition) |
 | 1683 | Invalid Tweets                                    | WHERE, LENGTH                    | [View](Easy/1683-invalid-tweets) |
 | 1729 | Find Followers Count                              | GROUP BY, COUNT, ORDER BY        | [View](Easy/1729-find-followers-count) |
 | 1757 | Recyclable and Low Fat Products                   | WHERE, AND                       | [View](Easy/1757-Recyclable-and-Low-Fat-Products) |
