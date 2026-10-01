@@ -6,10 +6,10 @@ A structured collection of my solutions to **LeetCode SQL problems**, focused on
 
 | **Difficulty** | **Solved** |
 | -------------- | ---------- |
-| 🟢 Easy        | 11         |
+| 🟢 Easy        | 12         |
 | 🟡 Medium      | 0          |
 | 🔴 Hard        | 0          |
-| **Total**      | **11**     |
+| **Total**      | **12**     |
 
 ## 📚 Problems
 
@@ -20,6 +20,7 @@ A structured collection of my solutions to **LeetCode SQL problems**, focused on
 | 584  | Find Customer Referee                             | WHERE, AND, NULL                 | [View](Easy/0584-find-customer-referee) |
 | 595  | Big Countries                                     | WHERE, OR                        | [View](Easy/595-big-countries) |
 | 596  | Classes With at Least 5 Students                  | GROUP BY, COUNT, HAVING          | [View](Easy/596-classes-with-at-least-5-students) |
+| 619  | Biggest Single Number                             | GROUP BY, COUNT, HAVING, MAX     | [View](Easy/619-biggest-single-number) |
 | 620  | Not Boring Movies                                 | WHERE, MOD, ORDER BY             | [View](Easy/620-not-boring-movies) |
 | 1141 | User Activity for the Past 30 Days I              | WHERE, GROUP BY, COUNT, DISTINCT | [View](Easy/1141-user-activity-for-the-past-30-days-i) |
 | 1148 | Article Views I                                   | WHERE, DISTINCT                  | [View](Easy/1148-article-views-i) |
