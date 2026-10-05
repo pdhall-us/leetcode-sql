@@ -6,10 +6,10 @@ A structured collection of my solutions to **LeetCode SQL problems**, focused on
 
 | **Difficulty** | **Solved** |
 | -------------- | ---------- |
-| 🟢 Easy        | 14         |
+| 🟢 Easy        | 15         |
 | 🟡 Medium      | 5          |
 | 🔴 Hard        | 0          |
-| **Total**      | **19**     |
+| **Total**      | **20**     |
 
 ## 📚 Problems
 
@@ -17,6 +17,7 @@ A structured collection of my solutions to **LeetCode SQL problems**, focused on
 
 | #    | Problem                                           | Topics                           | Solution |
 | ---- | ------------------------------------------------- | -------------------------------- | -------- |
+| 175  | Combine Two Tables                                | LEFT JOIN                        | [View](Easy/175-combine-two-tables) |
 | 196  | Delete Duplicate Emails                           | DELETE, SELF JOIN                | [View](Easy/196-delete-duplicate-emails) |
 | 584  | Find Customer Referee                             | WHERE, AND, NULL                 | [View](Easy/0584-find-customer-referee) |
 | 595  | Big Countries                                     | WHERE, OR                        | [View](Easy/595-big-countries) |
@@ -70,10 +71,3 @@ leetcode-sql/
 │   └── ...
 │
 └── README.md
-```
-
-## 💻 Language
-
-Primary language:
-
-[![SQL](https://img.shields.io/badge/SQL-MySQL-blue?logo=mysql&logoColor=white)](https://www.mysql.com/)
