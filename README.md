@@ -7,9 +7,9 @@ A structured collection of my solutions to **LeetCode SQL problems**, focused on
 | **Difficulty** | **Solved** |
 | -------------- | ---------- |
 | 🟢 Easy        | 18         |
-| 🟡 Medium      | 5          |
+| 🟡 Medium      | 6          |
 | 🔴 Hard        | 0          |
-| **Total**      | **23**     |
+| **Total**      | **24**     |
 
 ## 📚 Problems
 
@@ -41,6 +41,7 @@ A structured collection of my solutions to **LeetCode SQL problems**, focused on
 | #    | Problem                    | Topics                                  | Solution |
 | ---- | -------------------------- | --------------------------------------- | -------- |
 | 176  | Second Highest Salary      | DISTINCT, ORDER BY, LIMIT, OFFSET       | [View](Medium/176-second-highest-salary) |
+| 177  | Nth Highest Salary         | FUNCTION, DISTINCT, ORDER BY, LIMIT     | [View](Medium/177-nth-highest-salary) |
 | 550  | Game Play Analysis IV      | MIN, DATE_ADD, COUNT, DISTINCT, ROUND   | [View](Medium/550-game-play-analysis-iv) |
 | 1070 | Product Sales Analysis III | GROUP BY, MIN, SUBQUERY                 | [View](Medium/1070-product-sales-analysis-iii) |
 | 1174 | Immediate Food Delivery II | GROUP BY, MIN, AVG, ROUND, SUBQUERY     | [View](Medium/1174-immediate-food-delivery-ii) |
