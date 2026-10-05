@@ -6,10 +6,10 @@ A structured collection of my solutions to **LeetCode SQL problems**, focused on
 
 | **Difficulty** | **Solved** |
 | -------------- | ---------- |
-| 🟢 Easy        | 19         |
+| 🟢 Easy        | 20         |
 | 🟡 Medium      | 9          |
 | 🔴 Hard        | 2          |
-| **Total**      | **30**     |
+| **Total**      | **31**     |
 
 ## 📚 Problems
 
@@ -30,6 +30,7 @@ A structured collection of my solutions to **LeetCode SQL problems**, focused on
 | 1068 | Product Sales Analysis I                          | JOIN                             | [View](Easy/1068-product-sales-analysis-i) |
 | 1141 | User Activity for the Past 30 Days I              | WHERE, GROUP BY, COUNT, DISTINCT | [View](Easy/1141-user-activity-for-the-past-30-days-i) |
 | 1148 | Article Views I                                   | WHERE, DISTINCT                  | [View](Easy/1148-article-views-i) |
+| 1378 | Replace Employee ID With The Unique Identifier    | LEFT JOIN                        | [View](Easy/1378-replace-employee-id-with-the-unique-identifier) |
 | 1527 | Patients With a Condition                         | WHERE, LIKE                      | [View](Easy/1527-patients-with-a-condition) |
 | 1683 | Invalid Tweets                                    | WHERE, LENGTH                    | [View](Easy/1683-invalid-tweets) |
 | 1729 | Find Followers Count                              | GROUP BY, COUNT, ORDER BY        | [View](Easy/1729-find-followers-count) |
