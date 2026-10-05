@@ -6,10 +6,10 @@ A structured collection of my solutions to **LeetCode SQL problems**, focused on
 
 | **Difficulty** | **Solved** |
 | -------------- | ---------- |
-| 🟢 Easy        | 18         |
+| 🟢 Easy        | 19         |
 | 🟡 Medium      | 9          |
 | 🔴 Hard        | 2          |
-| **Total**      | **29**     |
+| **Total**      | **30**     |
 
 ## 📚 Problems
 
@@ -27,6 +27,7 @@ A structured collection of my solutions to **LeetCode SQL problems**, focused on
 | 596  | Classes With at Least 5 Students                  | GROUP BY, COUNT, HAVING          | [View](Easy/596-classes-with-at-least-5-students) |
 | 619  | Biggest Single Number                             | GROUP BY, COUNT, HAVING, MAX     | [View](Easy/619-biggest-single-number) |
 | 620  | Not Boring Movies                                 | WHERE, MOD, ORDER BY             | [View](Easy/620-not-boring-movies) |
+| 1068 | Product Sales Analysis I                          | JOIN                             | [View](Easy/1068-product-sales-analysis-i) |
 | 1141 | User Activity for the Past 30 Days I              | WHERE, GROUP BY, COUNT, DISTINCT | [View](Easy/1141-user-activity-for-the-past-30-days-i) |
 | 1148 | Article Views I                                   | WHERE, DISTINCT                  | [View](Easy/1148-article-views-i) |
 | 1527 | Patients With a Condition                         | WHERE, LIKE                      | [View](Easy/1527-patients-with-a-condition) |
@@ -38,24 +39,24 @@ A structured collection of my solutions to **LeetCode SQL problems**, focused on
 
 ### 🟡 Medium
 
-| #    | Problem                                                     | Topics                                  | Solution |
-| ---- | ----------------------------------------------------------- | --------------------------------------- | -------- |
-| 176  | Second Highest Salary                                       | DISTINCT, ORDER BY, LIMIT, OFFSET       | [View](Medium/176-second-highest-salary) |
-| 177  | Nth Highest Salary                                          | FUNCTION, DISTINCT, ORDER BY, LIMIT     | [View](Medium/177-nth-highest-salary) |
-| 178  | Rank Scores                                                 | DENSE_RANK, WINDOW FUNCTION, ORDER BY   | [View](Medium/178-rank-scores) |
-| 550  | Game Play Analysis IV                                       | MIN, DATE_ADD, COUNT, DISTINCT, ROUND   | [View](Medium/550-game-play-analysis-iv) |
-| 1045 | Customers Who Bought All Products                           | GROUP BY, COUNT, DISTINCT, HAVING       | [View](Medium/1045-customers-who-bought-all-products) |
-| 1070 | Product Sales Analysis III                                  | GROUP BY, MIN, SUBQUERY                 | [View](Medium/1070-product-sales-analysis-iii) |
-| 1174 | Immediate Food Delivery II                                  | GROUP BY, MIN, AVG, ROUND, SUBQUERY     | [View](Medium/1174-immediate-food-delivery-ii) |
-| 1193 | Monthly Transactions I                                      | GROUP BY, COUNT, SUM, CASE, DATE_FORMAT | [View](Medium/1193-monthly-transactions-i) |
-| 1731 | The Number of Employees Which Report to Each Employee       | SELF JOIN, GROUP BY, COUNT, AVG, ROUND  | [View](Medium/1731-the-number-of-employees-which-report-to-each-employee) |
+| #    | Problem                                               | Topics                                  | Solution |
+| ---- | ----------------------------------------------------- | --------------------------------------- | -------- |
+| 176  | Second Highest Salary                                 | DISTINCT, ORDER BY, LIMIT, OFFSET       | [View](Medium/176-second-highest-salary) |
+| 177  | Nth Highest Salary                                    | FUNCTION, DISTINCT, ORDER BY, LIMIT     | [View](Medium/177-nth-highest-salary) |
+| 178  | Rank Scores                                           | DENSE_RANK, WINDOW FUNCTION, ORDER BY   | [View](Medium/178-rank-scores) |
+| 550  | Game Play Analysis IV                                 | MIN, DATE_ADD, COUNT, DISTINCT, ROUND   | [View](Medium/550-game-play-analysis-iv) |
+| 1045 | Customers Who Bought All Products                     | GROUP BY, COUNT, DISTINCT, HAVING       | [View](Medium/1045-customers-who-bought-all-products) |
+| 1070 | Product Sales Analysis III                            | GROUP BY, MIN, SUBQUERY                 | [View](Medium/1070-product-sales-analysis-iii) |
+| 1174 | Immediate Food Delivery II                            | GROUP BY, MIN, AVG, ROUND, SUBQUERY     | [View](Medium/1174-immediate-food-delivery-ii) |
+| 1193 | Monthly Transactions I                                | GROUP BY, COUNT, SUM, CASE, DATE_FORMAT | [View](Medium/1193-monthly-transactions-i) |
+| 1731 | The Number of Employees Which Report to Each Employee | SELF JOIN, GROUP BY, COUNT, AVG, ROUND  | [View](Medium/1731-the-number-of-employees-which-report-to-each-employee) |
 
 ### 🔴 Hard
 
 | #   | Problem                       | Topics                                        | Solution |
 | --- | ----------------------------- | --------------------------------------------- | -------- |
 | 185 | Department Top Three Salaries | DENSE_RANK, WINDOW FUNCTION, PARTITION, JOIN  | [View](Hard/185-department-top-three-salaries) |
-| 262 | Trips and Users               | JOIN, WHERE, GROUP BY, CASE, ROUND             | [View](Hard/262-trips-and-users) |
+| 262 | Trips and Users               | JOIN, WHERE, GROUP BY, CASE, ROUND            | [View](Hard/262-trips-and-users) |
 
 ## 📁 Repository Structure
 
