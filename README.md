@@ -6,10 +6,10 @@ A structured collection of my solutions to **LeetCode SQL problems**, focused on
 
 | **Difficulty** | **Solved** |
 | -------------- | ---------- |
-| 🟢 Easy        | 17         |
+| 🟢 Easy        | 18         |
 | 🟡 Medium      | 5          |
 | 🔴 Hard        | 0          |
-| **Total**      | **22**     |
+| **Total**      | **23**     |
 
 ## 📚 Problems
 
@@ -19,6 +19,7 @@ A structured collection of my solutions to **LeetCode SQL problems**, focused on
 | ---- | ------------------------------------------------- | -------------------------------- | -------- |
 | 175  | Combine Two Tables                                | LEFT JOIN                        | [View](Easy/175-combine-two-tables) |
 | 181  | Employees Earning More Than Their Managers        | SELF JOIN, WHERE                 | [View](Easy/181-employees-earning-more-than-their-managers) |
+| 182  | Duplicate Emails                                  | GROUP BY, COUNT, HAVING          | [View](Easy/182-duplicate-emails) |
 | 183  | Customers Who Never Order                         | LEFT JOIN, NULL                  | [View](Easy/183-customers-who-never-order) |
 | 196  | Delete Duplicate Emails                           | DELETE, SELF JOIN                | [View](Easy/196-delete-duplicate-emails) |
 | 584  | Find Customer Referee                             | WHERE, AND, NULL                 | [View](Easy/0584-find-customer-referee) |
