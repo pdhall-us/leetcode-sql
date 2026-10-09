@@ -6,38 +6,39 @@ A structured collection of my solutions to **LeetCode SQL problems**, focused on
 
 | **Difficulty** | **Solved** |
 | -------------- | ---------- |
-| 🟢 Easy        | 21         |
+| 🟢 Easy        | 22         |
 | 🟡 Medium      | 9          |
 | 🔴 Hard        | 2          |
-| **Total**      | **32**     |
+| **Total**      | **33**     |
 
 ## 📚 Problems
 
 ### 🟢 Easy
 
-| #    | Problem                                                     | Topics                           | Solution |
-| ---- | ----------------------------------------------------------- | -------------------------------- | -------- |
-| 175  | Combine Two Tables                                          | LEFT JOIN                        | [View](Easy/175-combine-two-tables) |
-| 181  | Employees Earning More Than Their Managers                  | SELF JOIN, WHERE                 | [View](Easy/181-employees-earning-more-than-their-managers) |
-| 182  | Duplicate Emails                                            | GROUP BY, COUNT, HAVING          | [View](Easy/182-duplicate-emails) |
-| 183  | Customers Who Never Order                                   | LEFT JOIN, NULL                  | [View](Easy/183-customers-who-never-order) |
-| 196  | Delete Duplicate Emails                                     | DELETE, SELF JOIN                | [View](Easy/196-delete-duplicate-emails) |
-| 584  | Find Customer Referee                                       | WHERE, AND, NULL                 | [View](Easy/0584-find-customer-referee) |
-| 595  | Big Countries                                               | WHERE, OR                        | [View](Easy/595-big-countries) |
-| 596  | Classes With at Least 5 Students                            | GROUP BY, COUNT, HAVING          | [View](Easy/596-classes-with-at-least-5-students) |
-| 619  | Biggest Single Number                                       | GROUP BY, COUNT, HAVING, MAX     | [View](Easy/619-biggest-single-number) |
-| 620  | Not Boring Movies                                           | WHERE, MOD, ORDER BY             | [View](Easy/620-not-boring-movies) |
-| 1068 | Product Sales Analysis I                                    | JOIN                             | [View](Easy/1068-product-sales-analysis-i) |
-| 1141 | User Activity for the Past 30 Days I                        | WHERE, GROUP BY, COUNT, DISTINCT | [View](Easy/1141-user-activity-for-the-past-30-days-i) |
-| 1148 | Article Views I                                             | WHERE, DISTINCT                  | [View](Easy/1148-article-views-i) |
-| 1378 | Replace Employee ID With The Unique Identifier              | LEFT JOIN                        | [View](Easy/1378-replace-employee-id-with-the-unique-identifier) |
-| 1527 | Patients With a Condition                                   | WHERE, LIKE                      | [View](Easy/1527-patients-with-a-condition) |
-| 1581 | Customer Who Visited but Did Not Make Any Transactions      | LEFT JOIN, NULL, GROUP BY, COUNT | [View](Easy/1581-customer-who-visited-but-did-not-make-any-transactions) |
-| 1683 | Invalid Tweets                                              | WHERE, LENGTH                    | [View](Easy/1683-invalid-tweets) |
-| 1729 | Find Followers Count                                        | GROUP BY, COUNT, ORDER BY        | [View](Easy/1729-find-followers-count) |
-| 1757 | Recyclable and Low Fat Products                             | WHERE, AND                       | [View](Easy/1757-Recyclable-and-Low-Fat-Products) |
-| 1978 | Employees Whose Manager Left the Company                    | WHERE, NULL, ORDER BY            | [View](Easy/1978-employees-whose-manager-left-the-company) |
-| 2356 | Number of Unique Subjects Taught by Each Teacher            | GROUP BY, COUNT, DISTINCT        | [View](Easy/2356-number-of-unique-subjects-taught-by-each-teacher) |
+| #    | Problem                                                | Topics                           | Solution |
+| ---- | ------------------------------------------------------ | -------------------------------- | -------- |
+| 175  | Combine Two Tables                                     | LEFT JOIN                        | [View](Easy/175-combine-two-tables) |
+| 181  | Employees Earning More Than Their Managers             | SELF JOIN, WHERE                 | [View](Easy/181-employees-earning-more-than-their-managers) |
+| 182  | Duplicate Emails                                       | GROUP BY, COUNT, HAVING          | [View](Easy/182-duplicate-emails) |
+| 183  | Customers Who Never Order                              | LEFT JOIN, NULL                  | [View](Easy/183-customers-who-never-order) |
+| 196  | Delete Duplicate Emails                                | DELETE, SELF JOIN                | [View](Easy/196-delete-duplicate-emails) |
+| 197  | Rising Temperature                                     | SELF JOIN, DATEDIFF, WHERE       | [View](Easy/197-rising-temperature) |
+| 584  | Find Customer Referee                                  | WHERE, AND, NULL                 | [View](Easy/0584-find-customer-referee) |
+| 595  | Big Countries                                          | WHERE, OR                        | [View](Easy/595-big-countries) |
+| 596  | Classes With at Least 5 Students                       | GROUP BY, COUNT, HAVING          | [View](Easy/596-classes-with-at-least-5-students) |
+| 619  | Biggest Single Number                                  | GROUP BY, COUNT, HAVING, MAX     | [View](Easy/619-biggest-single-number) |
+| 620  | Not Boring Movies                                      | WHERE, MOD, ORDER BY             | [View](Easy/620-not-boring-movies) |
+| 1068 | Product Sales Analysis I                               | JOIN                             | [View](Easy/1068-product-sales-analysis-i) |
+| 1141 | User Activity for the Past 30 Days I                   | WHERE, GROUP BY, COUNT, DISTINCT | [View](Easy/1141-user-activity-for-the-past-30-days-i) |
+| 1148 | Article Views I                                        | WHERE, DISTINCT                  | [View](Easy/1148-article-views-i) |
+| 1378 | Replace Employee ID With The Unique Identifier         | LEFT JOIN                        | [View](Easy/1378-replace-employee-id-with-the-unique-identifier) |
+| 1527 | Patients With a Condition                              | WHERE, LIKE                      | [View](Easy/1527-patients-with-a-condition) |
+| 1581 | Customer Who Visited but Did Not Make Any Transactions | LEFT JOIN, NULL, GROUP BY, COUNT | [View](Easy/1581-customer-who-visited-but-did-not-make-any-transactions) |
+| 1683 | Invalid Tweets                                         | WHERE, LENGTH                    | [View](Easy/1683-invalid-tweets) |
+| 1729 | Find Followers Count                                   | GROUP BY, COUNT, ORDER BY        | [View](Easy/1729-find-followers-count) |
+| 1757 | Recyclable and Low Fat Products                        | WHERE, AND                       | [View](Easy/1757-Recyclable-and-Low-Fat-Products) |
+| 1978 | Employees Whose Manager Left the Company               | WHERE, NULL, ORDER BY            | [View](Easy/1978-employees-whose-manager-left-the-company) |
+| 2356 | Number of Unique Subjects Taught by Each Teacher       | GROUP BY, COUNT, DISTINCT        | [View](Easy/2356-number-of-unique-subjects-taught-by-each-teacher) |
 
 ### 🟡 Medium
 
