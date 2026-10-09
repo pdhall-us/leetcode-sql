@@ -7,9 +7,9 @@ A structured collection of my solutions to **LeetCode SQL problems**, focused on
 | **Difficulty** | **Solved** |
 | -------------- | ---------- |
 | 🟢 Easy        | 25         |
-| 🟡 Medium      | 9          |
+| 🟡 Medium      | 10         |
 | 🔴 Hard        | 2          |
-| **Total**      | **36**     |
+| **Total**      | **37**     |
 
 ## 📚 Problems
 
@@ -51,6 +51,7 @@ A structured collection of my solutions to **LeetCode SQL problems**, focused on
 | 177  | Nth Highest Salary                                    | FUNCTION, DISTINCT, ORDER BY, LIMIT     | [View](Medium/177-nth-highest-salary) |
 | 178  | Rank Scores                                           | DENSE_RANK, WINDOW FUNCTION, ORDER BY   | [View](Medium/178-rank-scores) |
 | 550  | Game Play Analysis IV                                 | MIN, DATE_ADD, COUNT, DISTINCT, ROUND   | [View](Medium/550-game-play-analysis-iv) |
+| 570  | Managers with at Least 5 Direct Reports               | SELF JOIN, GROUP BY, COUNT, HAVING      | [View](Medium/570-managers-with-at-least-5-direct-reports) |
 | 1045 | Customers Who Bought All Products                     | GROUP BY, COUNT, DISTINCT, HAVING       | [View](Medium/1045-customers-who-bought-all-products) |
 | 1070 | Product Sales Analysis III                            | GROUP BY, MIN, SUBQUERY                 | [View](Medium/1070-product-sales-analysis-iii) |
 | 1174 | Immediate Food Delivery II                            | GROUP BY, MIN, AVG, ROUND, SUBQUERY     | [View](Medium/1174-immediate-food-delivery-ii) |
