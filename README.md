@@ -6,10 +6,10 @@ A structured collection of my solutions to **LeetCode SQL problems**, focused on
 
 | **Difficulty** | **Solved** |
 | -------------- | ---------- |
-| 🟢 Easy        | 24         |
+| 🟢 Easy        | 25         |
 | 🟡 Medium      | 9          |
 | 🔴 Hard        | 2          |
-| **Total**      | **35**     |
+| **Total**      | **36**     |
 
 ## 📚 Problems
 
@@ -32,6 +32,7 @@ A structured collection of my solutions to **LeetCode SQL problems**, focused on
 | 1068 | Product Sales Analysis I                               | JOIN                             | [View](Easy/1068-product-sales-analysis-i) |
 | 1141 | User Activity for the Past 30 Days I                   | WHERE, GROUP BY, COUNT, DISTINCT | [View](Easy/1141-user-activity-for-the-past-30-days-i) |
 | 1148 | Article Views I                                        | WHERE, DISTINCT                  | [View](Easy/1148-article-views-i) |
+| 1280 | Students and Examinations                              | CROSS JOIN, LEFT JOIN, GROUP BY, COUNT | [View](Easy/1280-students-and-examinations) |
 | 1378 | Replace Employee ID With The Unique Identifier         | LEFT JOIN                        | [View](Easy/1378-replace-employee-id-with-the-unique-identifier) |
 | 1527 | Patients With a Condition                              | WHERE, LIKE                      | [View](Easy/1527-patients-with-a-condition) |
 | 1581 | Customer Who Visited but Did Not Make Any Transactions | LEFT JOIN, NULL, GROUP BY, COUNT | [View](Easy/1581-customer-who-visited-but-did-not-make-any-transactions) |
