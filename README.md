@@ -6,10 +6,10 @@ A structured collection of my solutions to **LeetCode SQL problems**, focused on
 
 | **Difficulty** | **Solved** |
 | -------------- | ---------- |
-| 🟢 Easy        | 29         |
+| 🟢 Easy        | 30         |
 | 🟡 Medium      | 11         |
 | 🔴 Hard        | 2          |
-| **Total**      | **42**     |
+| **Total**      | **43**     |
 
 ## 📚 Problems
 
@@ -44,6 +44,7 @@ A structured collection of my solutions to **LeetCode SQL problems**, focused on
 | 1683 | Invalid Tweets | WHERE, LENGTH | [View](Easy/1683-invalid-tweets) |
 | 1729 | Find Followers Count | GROUP BY, COUNT, ORDER BY | [View](Easy/1729-find-followers-count) |
 | 1757 | Recyclable and Low Fat Products | WHERE, AND | [View](Easy/1757-Recyclable-and-Low-Fat-Products) |
+| 1789 | Primary Department for Each Employee | WHERE, GROUP BY, HAVING, UNION | [View](Easy/1789-primary-department-for-each-employee) |
 | 1978 | Employees Whose Manager Left the Company | WHERE, NULL, ORDER BY | [View](Easy/1978-employees-whose-manager-left-the-company) |
 | 2356 | Number of Unique Subjects Taught by Each Teacher | GROUP BY, COUNT, DISTINCT | [View](Easy/2356-number-of-unique-subjects-taught-by-each-teacher) |
 
