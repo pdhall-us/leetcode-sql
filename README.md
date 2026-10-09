@@ -6,10 +6,10 @@ A structured collection of my solutions to **LeetCode SQL problems**, focused on
 
 | **Difficulty** | **Solved** |
 | -------------- | ---------- |
-| 🟢 Easy        | 23         |
+| 🟢 Easy        | 24         |
 | 🟡 Medium      | 9          |
 | 🔴 Hard        | 2          |
-| **Total**      | **34**     |
+| **Total**      | **35**     |
 
 ## 📚 Problems
 
@@ -23,6 +23,7 @@ A structured collection of my solutions to **LeetCode SQL problems**, focused on
 | 183  | Customers Who Never Order                              | LEFT JOIN, NULL                  | [View](Easy/183-customers-who-never-order) |
 | 196  | Delete Duplicate Emails                                | DELETE, SELF JOIN                | [View](Easy/196-delete-duplicate-emails) |
 | 197  | Rising Temperature                                     | SELF JOIN, DATEDIFF, WHERE       | [View](Easy/197-rising-temperature) |
+| 577  | Employee Bonus                                         | LEFT JOIN, WHERE, NULL           | [View](Easy/577-employee-bonus) |
 | 584  | Find Customer Referee                                  | WHERE, AND, NULL                 | [View](Easy/0584-find-customer-referee) |
 | 595  | Big Countries                                          | WHERE, OR                        | [View](Easy/595-big-countries) |
 | 596  | Classes With at Least 5 Students                       | GROUP BY, COUNT, HAVING          | [View](Easy/596-classes-with-at-least-5-students) |
