@@ -6,10 +6,10 @@ A structured collection of my solutions to **LeetCode SQL problems**, focused on
 
 | **Difficulty** | **Solved** |
 | -------------- | ---------- |
-| 🟢 Easy        | 27         |
+| 🟢 Easy        | 28         |
 | 🟡 Medium      | 11         |
 | 🔴 Hard        | 2          |
-| **Total**      | **40**     |
+| **Total**      | **41**     |
 
 ## 📚 Problems
 
@@ -38,6 +38,7 @@ A structured collection of my solutions to **LeetCode SQL problems**, focused on
 | 1378 | Replace Employee ID With The Unique Identifier | LEFT JOIN | [View](Easy/1378-replace-employee-id-with-the-unique-identifier) |
 | 1527 | Patients With a Condition | WHERE, LIKE | [View](Easy/1527-patients-with-a-condition) |
 | 1581 | Customer Who Visited but Did Not Make Any Transactions | LEFT JOIN, NULL, GROUP BY, COUNT | [View](Easy/1581-customer-who-visited-but-did-not-make-any-transactions) |
+| 1633 | Percentage of Users Attended a Contest | GROUP BY, COUNT, ROUND, ORDER BY, SUBQUERY | [View](Easy/1633-percentage-of-users-attended-a-contest) |
 | 1661 | Average Time of Process per Machine | SELF JOIN, GROUP BY, AVG, ROUND | [View](Easy/1661-average-time-of-process-per-machine) |
 | 1683 | Invalid Tweets | WHERE, LENGTH | [View](Easy/1683-invalid-tweets) |
 | 1729 | Find Followers Count | GROUP BY, COUNT, ORDER BY | [View](Easy/1729-find-followers-count) |
