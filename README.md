@@ -6,10 +6,10 @@ A structured collection of my solutions to **LeetCode SQL problems**, focused on
 
 | **Difficulty** | **Solved** |
 | -------------- | ---------- |
-| 🟢 Easy        | 30         |
+| 🟢 Easy        | 31         |
 | 🟡 Medium      | 11         |
 | 🔴 Hard        | 2          |
-| **Total**      | **43**     |
+| **Total**      | **44**     |
 
 ## 📚 Problems
 
@@ -27,6 +27,7 @@ A structured collection of my solutions to **LeetCode SQL problems**, focused on
 | 584 | Find Customer Referee | WHERE, AND, NULL | [View](Easy/0584-find-customer-referee) |
 | 595 | Big Countries | WHERE, OR | [View](Easy/595-big-countries) |
 | 596 | Classes With at Least 5 Students | GROUP BY, COUNT, HAVING | [View](Easy/596-classes-with-at-least-5-students) |
+| 610 | Triangle Judgement | CASE, WHEN, AND, CONDITIONAL LOGIC | [View](Easy/610-triangle-judgement) |
 | 619 | Biggest Single Number | GROUP BY, COUNT, HAVING, MAX | [View](Easy/619-biggest-single-number) |
 | 620 | Not Boring Movies | WHERE, MOD, ORDER BY | [View](Easy/620-not-boring-movies) |
 | 1068 | Product Sales Analysis I | JOIN | [View](Easy/1068-product-sales-analysis-i) |
