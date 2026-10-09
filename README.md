@@ -6,10 +6,10 @@ A structured collection of my solutions to **LeetCode SQL problems**, focused on
 
 | **Difficulty** | **Solved** |
 | -------------- | ---------- |
-| 🟢 Easy        | 28         |
+| 🟢 Easy        | 29         |
 | 🟡 Medium      | 11         |
 | 🔴 Hard        | 2          |
-| **Total**      | **41**     |
+| **Total**      | **42**     |
 
 ## 📚 Problems
 
@@ -33,6 +33,7 @@ A structured collection of my solutions to **LeetCode SQL problems**, focused on
 | 1075 | Project Employees I | JOIN, GROUP BY, AVG, ROUND | [View](Easy/1075-project-employees-i) |
 | 1141 | User Activity for the Past 30 Days I | WHERE, GROUP BY, COUNT, DISTINCT | [View](Easy/1141-user-activity-for-the-past-30-days-i) |
 | 1148 | Article Views I | WHERE, DISTINCT | [View](Easy/1148-article-views-i) |
+| 1211 | Queries Quality and Percentage | GROUP BY, AVG, ROUND, CASE, WHERE | [View](Easy/1211-queries-quality-and-percentage) |
 | 1251 | Average Selling Price | LEFT JOIN, BETWEEN, SUM, ROUND, GROUP BY | [View](Easy/1251-average-selling-price) |
 | 1280 | Students and Examinations | CROSS JOIN, LEFT JOIN, GROUP BY, COUNT | [View](Easy/1280-students-and-examinations) |
 | 1378 | Replace Employee ID With The Unique Identifier | LEFT JOIN | [View](Easy/1378-replace-employee-id-with-the-unique-identifier) |
