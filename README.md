@@ -7,9 +7,9 @@ A structured collection of my solutions to **LeetCode SQL problems**, focused on
 | **Difficulty** | **Solved** |
 | -------------- | ---------- |
 | 🟢 Easy        | 25         |
-| 🟡 Medium      | 10         |
+| 🟡 Medium      | 11         |
 | 🔴 Hard        | 2          |
-| **Total**      | **37**     |
+| **Total**      | **38**     |
 
 ## 📚 Problems
 
@@ -57,6 +57,7 @@ A structured collection of my solutions to **LeetCode SQL problems**, focused on
 | 1174 | Immediate Food Delivery II                            | GROUP BY, MIN, AVG, ROUND, SUBQUERY     | [View](Medium/1174-immediate-food-delivery-ii) |
 | 1193 | Monthly Transactions I                                | GROUP BY, COUNT, SUM, CASE, DATE_FORMAT | [View](Medium/1193-monthly-transactions-i) |
 | 1731 | The Number of Employees Which Report to Each Employee | SELF JOIN, GROUP BY, COUNT, AVG, ROUND  | [View](Medium/1731-the-number-of-employees-which-report-to-each-employee) |
+| 1934 | Confirmation Rate                                     | LEFT JOIN, GROUP BY, AVG, ROUND, CASE   | [View](Medium/1934-confirmation-rate) |
 
 ### 🔴 Hard
 
