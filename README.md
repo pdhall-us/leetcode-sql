@@ -6,10 +6,10 @@ A structured collection of my solutions to **LeetCode SQL problems**, focused on
 
 | **Difficulty** | **Solved** |
 | -------------- | ---------- |
-| 🟢 Easy        | 26         |
+| 🟢 Easy        | 27         |
 | 🟡 Medium      | 11         |
 | 🔴 Hard        | 2          |
-| **Total**      | **39**     |
+| **Total**      | **40**     |
 
 ## 📚 Problems
 
@@ -30,6 +30,7 @@ A structured collection of my solutions to **LeetCode SQL problems**, focused on
 | 619 | Biggest Single Number | GROUP BY, COUNT, HAVING, MAX | [View](Easy/619-biggest-single-number) |
 | 620 | Not Boring Movies | WHERE, MOD, ORDER BY | [View](Easy/620-not-boring-movies) |
 | 1068 | Product Sales Analysis I | JOIN | [View](Easy/1068-product-sales-analysis-i) |
+| 1075 | Project Employees I | JOIN, GROUP BY, AVG, ROUND | [View](Easy/1075-project-employees-i) |
 | 1141 | User Activity for the Past 30 Days I | WHERE, GROUP BY, COUNT, DISTINCT | [View](Easy/1141-user-activity-for-the-past-30-days-i) |
 | 1148 | Article Views I | WHERE, DISTINCT | [View](Easy/1148-article-views-i) |
 | 1251 | Average Selling Price | LEFT JOIN, BETWEEN, SUM, ROUND, GROUP BY | [View](Easy/1251-average-selling-price) |
