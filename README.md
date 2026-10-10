@@ -7,9 +7,9 @@ A structured collection of my solutions to **LeetCode SQL problems**, focused on
 | **Difficulty** | **Solved** |
 | -------------- | ---------- |
 | 🟢 Easy        | 36         |
-| 🟡 Medium      | 20         |
+| 🟡 Medium      | 21         |
 | 🔴 Hard        | 2          |
-| **Total**      | **58**     |
+| **Total**      | **59**     |
 
 ## 📚 Problems
 
@@ -62,6 +62,7 @@ A structured collection of my solutions to **LeetCode SQL problems**, focused on
 | 177 | Nth Highest Salary | FUNCTION, DISTINCT, ORDER BY, LIMIT | [View](Medium/177-nth-highest-salary) |
 | 178 | Rank Scores | DENSE_RANK, WINDOW FUNCTION, ORDER BY | [View](Medium/178-rank-scores) |
 | 180 | Consecutive Numbers | SELF JOIN, DISTINCT, WHERE | [View](Medium/180-consecutive-numbers) |
+| 184 | Department Highest Salary | JOIN, GROUP BY, MAX, SUBQUERY | [View](Medium/184-department-highest-salary) |
 | 550 | Game Play Analysis IV | MIN, DATE_ADD, COUNT, DISTINCT, ROUND | [View](Medium/550-game-play-analysis-iv) |
 | 570 | Managers with at Least 5 Direct Reports | SELF JOIN, GROUP BY, COUNT, HAVING | [View](Medium/570-managers-with-at-least-5-direct-reports) |
 | 585 | Investments in 2016 | GROUP BY, COUNT, HAVING, SUBQUERY, SUM, ROUND | [View](Medium/585-investments-in-2016) |
