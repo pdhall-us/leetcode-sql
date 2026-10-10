@@ -6,10 +6,10 @@ A structured collection of my solutions to **LeetCode SQL problems**, focused on
 
 | **Difficulty** | **Solved** |
 | -------------- | ---------- |
-| 🟢 Easy        | 33         |
+| 🟢 Easy        | 34         |
 | 🟡 Medium      | 17         |
 | 🔴 Hard        | 2          |
-| **Total**      | **52**     |
+| **Total**      | **53**     |
 
 ## 📚 Problems
 
@@ -40,6 +40,7 @@ A structured collection of my solutions to **LeetCode SQL problems**, focused on
 | 1327 | List the Products Ordered in a Period | JOIN, WHERE, BETWEEN, GROUP BY, SUM, HAVING | [View](Easy/1327-list-the-products-ordered-in-a-period) |
 | 1378 | Replace Employee ID With The Unique Identifier | LEFT JOIN | [View](Easy/1378-replace-employee-id-with-the-unique-identifier) |
 | 1484 | Group Sold Products By The Date | GROUP BY, COUNT, DISTINCT, GROUP_CONCAT, ORDER BY | [View](Easy/1484-group-sold-products-by-the-date) |
+| 1517 | Find Users With Valid E-Mails | WHERE, REGEXP, REGULAR EXPRESSIONS | [View](Easy/1517-find-users-with-valid-e-mails) |
 | 1527 | Patients With a Condition | WHERE, LIKE | [View](Easy/1527-patients-with-a-condition) |
 | 1581 | Customer Who Visited but Did Not Make Any Transactions | LEFT JOIN, NULL, GROUP BY, COUNT | [View](Easy/1581-customer-who-visited-but-did-not-make-any-transactions) |
 | 1633 | Percentage of Users Attended a Contest | GROUP BY, COUNT, ROUND, ORDER BY, SUBQUERY | [View](Easy/1633-percentage-of-users-attended-a-contest) |
