@@ -6,10 +6,10 @@ A structured collection of my solutions to **LeetCode SQL problems**, focused on
 
 | **Difficulty** | **Solved** |
 | -------------- | ---------- |
-| 🟢 Easy        | 34         |
+| 🟢 Easy        | 35         |
 | 🟡 Medium      | 17         |
 | 🔴 Hard        | 2          |
-| **Total**      | **53**     |
+| **Total**      | **54**     |
 
 ## 📚 Problems
 
@@ -45,6 +45,7 @@ A structured collection of my solutions to **LeetCode SQL problems**, focused on
 | 1581 | Customer Who Visited but Did Not Make Any Transactions | LEFT JOIN, NULL, GROUP BY, COUNT | [View](Easy/1581-customer-who-visited-but-did-not-make-any-transactions) |
 | 1633 | Percentage of Users Attended a Contest | GROUP BY, COUNT, ROUND, ORDER BY, SUBQUERY | [View](Easy/1633-percentage-of-users-attended-a-contest) |
 | 1661 | Average Time of Process per Machine | SELF JOIN, GROUP BY, AVG, ROUND | [View](Easy/1661-average-time-of-process-per-machine) |
+| 1667 | Fix Names in a Table | UPPER, LOWER, SUBSTRING, CONCAT, ORDER BY | [View](Easy/1667-fix-names-in-a-table) |
 | 1683 | Invalid Tweets | WHERE, LENGTH | [View](Easy/1683-invalid-tweets) |
 | 1729 | Find Followers Count | GROUP BY, COUNT, ORDER BY | [View](Easy/1729-find-followers-count) |
 | 1757 | Recyclable and Low Fat Products | WHERE, AND | [View](Easy/1757-Recyclable-and-Low-Fat-Products) |
