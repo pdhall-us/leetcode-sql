@@ -7,9 +7,9 @@ A structured collection of my solutions to **LeetCode SQL problems**, focused on
 | **Difficulty** | **Solved** |
 | -------------- | ---------- |
 | 🟢 Easy        | 35         |
-| 🟡 Medium      | 19         |
+| 🟡 Medium      | 20         |
 | 🔴 Hard        | 2          |
-| **Total**      | **56**     |
+| **Total**      | **57**     |
 
 ## 📚 Problems
 
@@ -63,6 +63,7 @@ A structured collection of my solutions to **LeetCode SQL problems**, focused on
 | 180 | Consecutive Numbers | SELF JOIN, DISTINCT, WHERE | [View](Medium/180-consecutive-numbers) |
 | 550 | Game Play Analysis IV | MIN, DATE_ADD, COUNT, DISTINCT, ROUND | [View](Medium/550-game-play-analysis-iv) |
 | 570 | Managers with at Least 5 Direct Reports | SELF JOIN, GROUP BY, COUNT, HAVING | [View](Medium/570-managers-with-at-least-5-direct-reports) |
+| 585 | Investments in 2016 | GROUP BY, COUNT, HAVING, SUBQUERY, SUM, ROUND | [View](Medium/585-investments-in-2016) |
 | 602 | Friend Requests II: Who Has the Most Friends | UNION ALL, GROUP BY, COUNT, ORDER BY, LIMIT | [View](Medium/602-friend-requests-ii-who-has-the-most-friends) |
 | 626 | Exchange Seats | CASE, WHEN, MOD, COUNT, ORDER BY | [View](Medium/626-exchange-seats) |
 | 1045 | Customers Who Bought All Products | GROUP BY, COUNT, DISTINCT, HAVING | [View](Medium/1045-customers-who-bought-all-products) |
