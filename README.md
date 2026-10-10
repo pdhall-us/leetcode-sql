@@ -7,9 +7,9 @@ A structured collection of my solutions to **LeetCode SQL problems**, focused on
 | **Difficulty** | **Solved** |
 | -------------- | ---------- |
 | 🟢 Easy        | 31         |
-| 🟡 Medium      | 11         |
+| 🟡 Medium      | 13         |
 | 🔴 Hard        | 2          |
-| **Total**      | **44**     |
+| **Total**      | **46**     |
 
 ## 📚 Problems
 
@@ -56,10 +56,12 @@ A structured collection of my solutions to **LeetCode SQL problems**, focused on
 | 176 | Second Highest Salary | DISTINCT, ORDER BY, LIMIT, OFFSET | [View](Medium/176-second-highest-salary) |
 | 177 | Nth Highest Salary | FUNCTION, DISTINCT, ORDER BY, LIMIT | [View](Medium/177-nth-highest-salary) |
 | 178 | Rank Scores | DENSE_RANK, WINDOW FUNCTION, ORDER BY | [View](Medium/178-rank-scores) |
+| 180 | Consecutive Numbers | SELF JOIN, DISTINCT, WHERE | [View](Medium/180-consecutive-numbers) |
 | 550 | Game Play Analysis IV | MIN, DATE_ADD, COUNT, DISTINCT, ROUND | [View](Medium/550-game-play-analysis-iv) |
 | 570 | Managers with at Least 5 Direct Reports | SELF JOIN, GROUP BY, COUNT, HAVING | [View](Medium/570-managers-with-at-least-5-direct-reports) |
 | 1045 | Customers Who Bought All Products | GROUP BY, COUNT, DISTINCT, HAVING | [View](Medium/1045-customers-who-bought-all-products) |
 | 1070 | Product Sales Analysis III | GROUP BY, MIN, SUBQUERY | [View](Medium/1070-product-sales-analysis-iii) |
+| 1164 | Product Price at a Given Date | GROUP BY, MAX, SUBQUERY, UNION, COALESCE | [View](Medium/1164-product-price-at-a-given-date) |
 | 1174 | Immediate Food Delivery II | GROUP BY, MIN, AVG, ROUND, SUBQUERY | [View](Medium/1174-immediate-food-delivery-ii) |
 | 1193 | Monthly Transactions I | GROUP BY, COUNT, SUM, CASE, DATE_FORMAT | [View](Medium/1193-monthly-transactions-i) |
 | 1731 | The Number of Employees Which Report to Each Employee | SELF JOIN, GROUP BY, COUNT, AVG, ROUND | [View](Medium/1731-the-number-of-employees-which-report-to-each-employee) |
