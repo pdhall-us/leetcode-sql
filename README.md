@@ -6,10 +6,10 @@ A structured collection of my solutions to **LeetCode SQL problems**, focused on
 
 | **Difficulty** | **Solved** |
 | -------------- | ---------- |
-| 🟢 Easy        | 38         |
+| 🟢 Easy        | 39         |
 | 🟡 Medium      | 21         |
 | 🔴 Hard        | 3          |
-| **Total**      | **62**     |
+| **Total**      | **63**     |
 
 ## 📚 Problems
 
@@ -29,6 +29,7 @@ A structured collection of my solutions to **LeetCode SQL problems**, focused on
 | 586 | Customer Placing the Largest Number of Orders | GROUP BY, COUNT, ORDER BY, LIMIT | [View](Easy/586-customer-placing-the-largest-number-of-orders) |
 | 595 | Big Countries | WHERE, OR | [View](Easy/595-big-countries) |
 | 596 | Classes With at Least 5 Students | GROUP BY, COUNT, HAVING | [View](Easy/596-classes-with-at-least-5-students) |
+| 607 | Sales Person | JOIN, NOT IN, SUBQUERY | [View](Easy/607-sales-person) |
 | 610 | Triangle Judgement | CASE, WHEN, AND, CONDITIONAL LOGIC | [View](Easy/610-triangle-judgement) |
 | 619 | Biggest Single Number | GROUP BY, COUNT, HAVING, MAX | [View](Easy/619-biggest-single-number) |
 | 620 | Not Boring Movies | WHERE, MOD, ORDER BY | [View](Easy/620-not-boring-movies) |
