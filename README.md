@@ -6,10 +6,10 @@ A structured collection of my solutions to **LeetCode SQL problems**, focused on
 
 | **Difficulty** | **Solved** |
 | -------------- | ---------- |
-| 🟢 Easy        | 37         |
+| 🟢 Easy        | 38         |
 | 🟡 Medium      | 21         |
 | 🔴 Hard        | 2          |
-| **Total**      | **60**     |
+| **Total**      | **61**     |
 
 ## 📚 Problems
 
@@ -26,6 +26,7 @@ A structured collection of my solutions to **LeetCode SQL problems**, focused on
 | 511 | Game Play Analysis I | GROUP BY, MIN, DATE | [View](Easy/511-game-play-analysis-i) |
 | 577 | Employee Bonus | LEFT JOIN, WHERE, NULL | [View](Easy/577-employee-bonus) |
 | 584 | Find Customer Referee | WHERE, AND, NULL | [View](Easy/0584-find-customer-referee) |
+| 586 | Customer Placing the Largest Number of Orders | GROUP BY, COUNT, ORDER BY, LIMIT | [View](Easy/586-customer-placing-the-largest-number-of-orders) |
 | 595 | Big Countries | WHERE, OR | [View](Easy/595-big-countries) |
 | 596 | Classes With at Least 5 Students | GROUP BY, COUNT, HAVING | [View](Easy/596-classes-with-at-least-5-students) |
 | 610 | Triangle Judgement | CASE, WHEN, AND, CONDITIONAL LOGIC | [View](Easy/610-triangle-judgement) |
