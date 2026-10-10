@@ -6,10 +6,10 @@ A structured collection of my solutions to **LeetCode SQL problems**, focused on
 
 | **Difficulty** | **Solved** |
 | -------------- | ---------- |
-| 🟢 Easy        | 32         |
+| 🟢 Easy        | 33         |
 | 🟡 Medium      | 17         |
 | 🔴 Hard        | 2          |
-| **Total**      | **51**     |
+| **Total**      | **52**     |
 
 ## 📚 Problems
 
@@ -37,6 +37,7 @@ A structured collection of my solutions to **LeetCode SQL problems**, focused on
 | 1211 | Queries Quality and Percentage | GROUP BY, AVG, ROUND, CASE, WHERE | [View](Easy/1211-queries-quality-and-percentage) |
 | 1251 | Average Selling Price | LEFT JOIN, BETWEEN, SUM, ROUND, GROUP BY | [View](Easy/1251-average-selling-price) |
 | 1280 | Students and Examinations | CROSS JOIN, LEFT JOIN, GROUP BY, COUNT | [View](Easy/1280-students-and-examinations) |
+| 1327 | List the Products Ordered in a Period | JOIN, WHERE, BETWEEN, GROUP BY, SUM, HAVING | [View](Easy/1327-list-the-products-ordered-in-a-period) |
 | 1378 | Replace Employee ID With The Unique Identifier | LEFT JOIN | [View](Easy/1378-replace-employee-id-with-the-unique-identifier) |
 | 1484 | Group Sold Products By The Date | GROUP BY, COUNT, DISTINCT, GROUP_CONCAT, ORDER BY | [View](Easy/1484-group-sold-products-by-the-date) |
 | 1527 | Patients With a Condition | WHERE, LIKE | [View](Easy/1527-patients-with-a-condition) |
