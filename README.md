@@ -2,14 +2,14 @@
 
 A structured collection of my solutions to **LeetCode SQL problems**, focused on improving my understanding of **SQL concepts, database querying, problem-solving techniques, and query optimization**.
 
-## 📊 Progress
+## 📊 Solution Summary
 
 | **Difficulty** | **Solved** |
 | -------------- | ---------- |
 | 🟢 Easy        | 31         |
-| 🟡 Medium      | 13         |
+| 🟡 Medium      | 14         |
 | 🔴 Hard        | 2          |
-| **Total**      | **46**     |
+| **Total**      | **47**     |
 
 ## 📚 Problems
 
@@ -64,6 +64,7 @@ A structured collection of my solutions to **LeetCode SQL problems**, focused on
 | 1164 | Product Price at a Given Date | GROUP BY, MAX, SUBQUERY, UNION, COALESCE | [View](Medium/1164-product-price-at-a-given-date) |
 | 1174 | Immediate Food Delivery II | GROUP BY, MIN, AVG, ROUND, SUBQUERY | [View](Medium/1174-immediate-food-delivery-ii) |
 | 1193 | Monthly Transactions I | GROUP BY, COUNT, SUM, CASE, DATE_FORMAT | [View](Medium/1193-monthly-transactions-i) |
+| 1204 | Last Person to Fit in the Bus | SUM, WINDOW FUNCTION, ORDER BY, LIMIT | [View](Medium/1204-last-person-to-fit-in-the-bus) |
 | 1731 | The Number of Employees Which Report to Each Employee | SELF JOIN, GROUP BY, COUNT, AVG, ROUND | [View](Medium/1731-the-number-of-employees-which-report-to-each-employee) |
 | 1934 | Confirmation Rate | LEFT JOIN, GROUP BY, AVG, ROUND, CASE | [View](Medium/1934-confirmation-rate) |
 
