@@ -8,8 +8,8 @@ A structured collection of my solutions to **LeetCode SQL problems**, focused on
 | -------------- | ---------- |
 | 🟢 Easy        | 38         |
 | 🟡 Medium      | 21         |
-| 🔴 Hard        | 2          |
-| **Total**      | **61**     |
+| 🔴 Hard        | 3          |
+| **Total**      | **62**     |
 
 ## 📚 Problems
 
@@ -88,6 +88,7 @@ A structured collection of my solutions to **LeetCode SQL problems**, focused on
 | --- | --- | --- | --- |
 | 185 | Department Top Three Salaries | DENSE_RANK, WINDOW FUNCTION, PARTITION, JOIN | [View](Hard/185-department-top-three-salaries) |
 | 262 | Trips and Users | JOIN, WHERE, GROUP BY, CASE, ROUND | [View](Hard/262-trips-and-users) |
+| 601 | Human Traffic of Stadium | CTE, ROW_NUMBER, WINDOW FUNCTION, GROUP BY, HAVING | [View](Hard/601-human-traffic-of-stadium) |
 
 ## 📁 Repository Structure
 
