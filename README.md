@@ -6,10 +6,10 @@ A structured collection of my solutions to **LeetCode SQL problems**, focused on
 
 | **Difficulty** | **Solved** |
 | -------------- | ---------- |
-| 🟢 Easy        | 44         |
+| 🟢 Easy        | 45         |
 | 🟡 Medium      | 24         |
 | 🔴 Hard        | 3          |
-| **Total**      | **71**     |
+| **Total**      | **72**     |
 
 ## 📚 Problems
 
@@ -46,6 +46,7 @@ A structured collection of my solutions to **LeetCode SQL problems**, focused on
 | 1280 | Students and Examinations | CROSS JOIN, LEFT JOIN, GROUP BY, COUNT | [View](Easy/1280-students-and-examinations) |
 | 1327 | List the Products Ordered in a Period | JOIN, WHERE, BETWEEN, GROUP BY, SUM, HAVING | [View](Easy/1327-list-the-products-ordered-in-a-period) |
 | 1378 | Replace Employee ID With The Unique Identifier | LEFT JOIN | [View](Easy/1378-replace-employee-id-with-the-unique-identifier) |
+| 1407 | Top Travellers | LEFT JOIN, GROUP BY, SUM, COALESCE, ORDER BY | [View](Easy/1407-top-travellers) |
 | 1484 | Group Sold Products By The Date | GROUP BY, COUNT, DISTINCT, GROUP_CONCAT, ORDER BY | [View](Easy/1484-group-sold-products-by-the-date) |
 | 1517 | Find Users With Valid E-Mails | WHERE, REGEXP, REGULAR EXPRESSIONS | [View](Easy/1517-find-users-with-valid-e-mails) |
 | 1527 | Patients With a Condition | WHERE, LIKE | [View](Easy/1527-patients-with-a-condition) |
