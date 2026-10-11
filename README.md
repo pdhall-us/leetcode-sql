@@ -6,10 +6,10 @@ A structured collection of my solutions to **LeetCode SQL problems**, focused on
 
 | **Difficulty** | **Solved** |
 | -------------- | ---------- |
-| 🟢 Easy        | 41         |
+| 🟢 Easy        | 42         |
 | 🟡 Medium      | 22         |
 | 🔴 Hard        | 3          |
-| **Total**      | **66**     |
+| **Total**      | **67**     |
 
 ## 📚 Problems
 
@@ -37,6 +37,7 @@ A structured collection of my solutions to **LeetCode SQL problems**, focused on
 | 1050 | Actors and Directors Who Cooperated At Least Three Times | GROUP BY, COUNT, HAVING | [View](Easy/1050-actors-and-directors-who-cooperated-at-least-three-times) |
 | 1068 | Product Sales Analysis I | JOIN | [View](Easy/1068-product-sales-analysis-i) |
 | 1075 | Project Employees I | JOIN, GROUP BY, AVG, ROUND | [View](Easy/1075-project-employees-i) |
+| 1084 | Sales Analysis III | JOIN, GROUP BY, MIN, MAX, HAVING, BETWEEN | [View](Easy/1084-sales-analysis-iii) |
 | 1141 | User Activity for the Past 30 Days I | WHERE, GROUP BY, COUNT, DISTINCT | [View](Easy/1141-user-activity-for-the-past-30-days-i) |
 | 1148 | Article Views I | WHERE, DISTINCT | [View](Easy/1148-article-views-i) |
 | 1211 | Queries Quality and Percentage | GROUP BY, AVG, ROUND, CASE, WHERE | [View](Easy/1211-queries-quality-and-percentage) |
