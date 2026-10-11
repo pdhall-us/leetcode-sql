@@ -6,10 +6,10 @@ A structured collection of my solutions to **LeetCode SQL problems**, focused on
 
 | **Difficulty** | **Solved** |
 | -------------- | ---------- |
-| 🟢 Easy        | 46         |
+| 🟢 Easy        | 47         |
 | 🟡 Medium      | 24         |
 | 🔴 Hard        | 3          |
-| **Total**      | **73**     |
+| **Total**      | **74**     |
 
 ## 📚 Problems
 
@@ -58,6 +58,7 @@ A structured collection of my solutions to **LeetCode SQL problems**, focused on
 | 1683 | Invalid Tweets | WHERE, LENGTH | [View](Easy/1683-invalid-tweets) |
 | 1693 | Daily Leads and Partners | GROUP BY, COUNT, DISTINCT | [View](Easy/1693-daily-leads-and-partners) |
 | 1729 | Find Followers Count | GROUP BY, COUNT, ORDER BY | [View](Easy/1729-find-followers-count) |
+| 1741 | Find Total Time Spent by Each Employee | GROUP BY, SUM, ARITHMETIC OPERATIONS | [View](Easy/1741-find-total-time-spent-by-each-employee) |
 | 1757 | Recyclable and Low Fat Products | WHERE, AND | [View](Easy/1757-Recyclable-and-Low-Fat-Products) |
 | 1789 | Primary Department for Each Employee | WHERE, GROUP BY, HAVING, UNION | [View](Easy/1789-primary-department-for-each-employee) |
 | 1965 | Employees With Missing Information | UNION, LEFT JOIN, NULL, ORDER BY | [View](Easy/1965-employees-with-missing-information) |
