@@ -7,9 +7,9 @@ A structured collection of my solutions to **LeetCode SQL problems**, focused on
 | **Difficulty** | **Solved** |
 | -------------- | ---------- |
 | 🟢 Easy        | 39         |
-| 🟡 Medium      | 21         |
+| 🟡 Medium      | 22         |
 | 🔴 Hard        | 3          |
-| **Total**      | **63**     |
+| **Total**      | **64**     |
 
 ## 📚 Problems
 
@@ -70,6 +70,7 @@ A structured collection of my solutions to **LeetCode SQL problems**, focused on
 | 570 | Managers with at Least 5 Direct Reports | SELF JOIN, GROUP BY, COUNT, HAVING | [View](Medium/570-managers-with-at-least-5-direct-reports) |
 | 585 | Investments in 2016 | GROUP BY, COUNT, HAVING, SUBQUERY, SUM, ROUND | [View](Medium/585-investments-in-2016) |
 | 602 | Friend Requests II: Who Has the Most Friends | UNION ALL, GROUP BY, COUNT, ORDER BY, LIMIT | [View](Medium/602-friend-requests-ii-who-has-the-most-friends) |
+| 608 | Tree Node | CASE, WHEN, IS NULL, IN, SUBQUERY | [View](Medium/608-tree-node) |
 | 626 | Exchange Seats | CASE, WHEN, MOD, COUNT, ORDER BY | [View](Medium/626-exchange-seats) |
 | 1045 | Customers Who Bought All Products | GROUP BY, COUNT, DISTINCT, HAVING | [View](Medium/1045-customers-who-bought-all-products) |
 | 1070 | Product Sales Analysis III | GROUP BY, MIN, SUBQUERY | [View](Medium/1070-product-sales-analysis-iii) |
