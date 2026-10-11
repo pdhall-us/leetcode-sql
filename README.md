@@ -6,10 +6,10 @@ A structured collection of my solutions to **LeetCode SQL problems**, focused on
 
 | **Difficulty** | **Solved** |
 | -------------- | ---------- |
-| 🟢 Easy        | 43         |
+| 🟢 Easy        | 44         |
 | 🟡 Medium      | 24         |
 | 🔴 Hard        | 3          |
-| **Total**      | **70**     |
+| **Total**      | **71**     |
 
 ## 📚 Problems
 
@@ -50,6 +50,7 @@ A structured collection of my solutions to **LeetCode SQL problems**, focused on
 | 1517 | Find Users With Valid E-Mails | WHERE, REGEXP, REGULAR EXPRESSIONS | [View](Easy/1517-find-users-with-valid-e-mails) |
 | 1527 | Patients With a Condition | WHERE, LIKE | [View](Easy/1527-patients-with-a-condition) |
 | 1581 | Customer Who Visited but Did Not Make Any Transactions | LEFT JOIN, NULL, GROUP BY, COUNT | [View](Easy/1581-customer-who-visited-but-did-not-make-any-transactions) |
+| 1587 | Bank Account Summary II | JOIN, GROUP BY, SUM, HAVING | [View](Easy/1587-bank-account-summary-ii) |
 | 1633 | Percentage of Users Attended a Contest | GROUP BY, COUNT, ROUND, ORDER BY, SUBQUERY | [View](Easy/1633-percentage-of-users-attended-a-contest) |
 | 1661 | Average Time of Process per Machine | SELF JOIN, GROUP BY, AVG, ROUND | [View](Easy/1661-average-time-of-process-per-machine) |
 | 1667 | Fix Names in a Table | UPPER, LOWER, SUBSTRING, CONCAT, ORDER BY | [View](Easy/1667-fix-names-in-a-table) |
