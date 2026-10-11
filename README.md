@@ -7,9 +7,9 @@ A structured collection of my solutions to **LeetCode SQL problems**, focused on
 | **Difficulty** | **Solved** |
 | -------------- | ---------- |
 | 🟢 Easy        | 43         |
-| 🟡 Medium      | 23         |
+| 🟡 Medium      | 24         |
 | 🔴 Hard        | 3          |
-| **Total**      | **69**     |
+| **Total**      | **70**     |
 
 ## 📚 Problems
 
@@ -85,6 +85,7 @@ A structured collection of my solutions to **LeetCode SQL problems**, focused on
 | 1204 | Last Person to Fit in the Bus | SUM, WINDOW FUNCTION, ORDER BY, LIMIT | [View](Medium/1204-last-person-to-fit-in-the-bus) |
 | 1321 | Restaurant Growth | GROUP BY, SUM, AVG, WINDOW FUNCTION, ROWS BETWEEN, ROUND | [View](Medium/1321-restaurant-growth) |
 | 1341 | Movie Rating | JOIN, GROUP BY, COUNT, AVG, ORDER BY, UNION ALL | [View](Medium/1341-movie-rating) |
+| 1393 | Capital Gain/Loss | GROUP BY, SUM, CASE, WHEN | [View](Medium/1393-capital-gainloss) |
 | 1731 | The Number of Employees Which Report to Each Employee | SELF JOIN, GROUP BY, COUNT, AVG, ROUND | [View](Medium/1731-the-number-of-employees-which-report-to-each-employee) |
 | 1907 | Count Salary Categories | UNION ALL, COUNT, CASE, WHERE | [View](Medium/1907-count-salary-categories) |
 | 1934 | Confirmation Rate | LEFT JOIN, GROUP BY, AVG, ROUND, CASE | [View](Medium/1934-confirmation-rate) |
