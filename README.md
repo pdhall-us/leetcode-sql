@@ -6,10 +6,10 @@ A structured collection of my solutions to **LeetCode SQL problems**, focused on
 
 | **Difficulty** | **Solved** |
 | -------------- | ---------- |
-| 🟢 Easy        | 42         |
+| 🟢 Easy        | 43         |
 | 🟡 Medium      | 23         |
 | 🔴 Hard        | 3          |
-| **Total**      | **68**     |
+| **Total**      | **69**     |
 
 ## 📚 Problems
 
@@ -40,6 +40,7 @@ A structured collection of my solutions to **LeetCode SQL problems**, focused on
 | 1084 | Sales Analysis III | JOIN, GROUP BY, MIN, MAX, HAVING, BETWEEN | [View](Easy/1084-sales-analysis-iii) |
 | 1141 | User Activity for the Past 30 Days I | WHERE, GROUP BY, COUNT, DISTINCT | [View](Easy/1141-user-activity-for-the-past-30-days-i) |
 | 1148 | Article Views I | WHERE, DISTINCT | [View](Easy/1148-article-views-i) |
+| 1179 | Reformat Department Table | GROUP BY, SUM, CASE, WHEN, PIVOT | [View](Easy/1179-reformat-department-table) |
 | 1211 | Queries Quality and Percentage | GROUP BY, AVG, ROUND, CASE, WHERE | [View](Easy/1211-queries-quality-and-percentage) |
 | 1251 | Average Selling Price | LEFT JOIN, BETWEEN, SUM, ROUND, GROUP BY | [View](Easy/1251-average-selling-price) |
 | 1280 | Students and Examinations | CROSS JOIN, LEFT JOIN, GROUP BY, COUNT | [View](Easy/1280-students-and-examinations) |
