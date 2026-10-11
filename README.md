@@ -6,10 +6,10 @@ A structured collection of my solutions to **LeetCode SQL problems**, focused on
 
 | **Difficulty** | **Solved** |
 | -------------- | ---------- |
-| 🟢 Easy        | 45         |
+| 🟢 Easy        | 46         |
 | 🟡 Medium      | 24         |
 | 🔴 Hard        | 3          |
-| **Total**      | **72**     |
+| **Total**      | **73**     |
 
 ## 📚 Problems
 
@@ -56,6 +56,7 @@ A structured collection of my solutions to **LeetCode SQL problems**, focused on
 | 1661 | Average Time of Process per Machine | SELF JOIN, GROUP BY, AVG, ROUND | [View](Easy/1661-average-time-of-process-per-machine) |
 | 1667 | Fix Names in a Table | UPPER, LOWER, SUBSTRING, CONCAT, ORDER BY | [View](Easy/1667-fix-names-in-a-table) |
 | 1683 | Invalid Tweets | WHERE, LENGTH | [View](Easy/1683-invalid-tweets) |
+| 1693 | Daily Leads and Partners | GROUP BY, COUNT, DISTINCT | [View](Easy/1693-daily-leads-and-partners) |
 | 1729 | Find Followers Count | GROUP BY, COUNT, ORDER BY | [View](Easy/1729-find-followers-count) |
 | 1757 | Recyclable and Low Fat Products | WHERE, AND | [View](Easy/1757-Recyclable-and-Low-Fat-Products) |
 | 1789 | Primary Department for Each Employee | WHERE, GROUP BY, HAVING, UNION | [View](Easy/1789-primary-department-for-each-employee) |
