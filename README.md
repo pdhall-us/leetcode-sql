@@ -6,10 +6,10 @@ A structured collection of my solutions to **LeetCode SQL problems**, focused on
 
 | **Difficulty** | **Solved** |
 | -------------- | ---------- |
-| 🟢 Easy        | 48         |
+| 🟢 Easy        | 49         |
 | 🟡 Medium      | 24         |
 | 🔴 Hard        | 3          |
-| **Total**      | **75**     |
+| **Total**      | **76**     |
 
 ## 📚 Problems
 
@@ -62,6 +62,7 @@ A structured collection of my solutions to **LeetCode SQL problems**, focused on
 | 1757 | Recyclable and Low Fat Products | WHERE, AND | [View](Easy/1757-Recyclable-and-Low-Fat-Products) |
 | 1789 | Primary Department for Each Employee | WHERE, GROUP BY, HAVING, UNION | [View](Easy/1789-primary-department-for-each-employee) |
 | 1795 | Rearrange Products Table | UNION ALL, WHERE, IS NOT NULL, UNPIVOT | [View](Easy/1795-rearrange-products-table) |
+| 1873 | Calculate Special Bonus | CASE, WHEN, MOD, LIKE, ORDER BY | [View](Easy/1873-calculate-special-bonus) |
 | 1965 | Employees With Missing Information | UNION, LEFT JOIN, NULL, ORDER BY | [View](Easy/1965-employees-with-missing-information) |
 | 1978 | Employees Whose Manager Left the Company | WHERE, NULL, ORDER BY | [View](Easy/1978-employees-whose-manager-left-the-company) |
 | 2356 | Number of Unique Subjects Taught by Each Teacher | GROUP BY, COUNT, DISTINCT | [View](Easy/2356-number-of-unique-subjects-taught-by-each-teacher) |
