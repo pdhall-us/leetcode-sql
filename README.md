@@ -7,9 +7,9 @@ A structured collection of my solutions to **LeetCode SQL problems**, focused on
 | **Difficulty** | **Solved** |
 | -------------- | ---------- |
 | 🟢 Easy        | 42         |
-| 🟡 Medium      | 22         |
+| 🟡 Medium      | 23         |
 | 🔴 Hard        | 3          |
-| **Total**      | **67**     |
+| **Total**      | **68**     |
 
 ## 📚 Problems
 
@@ -77,6 +77,7 @@ A structured collection of my solutions to **LeetCode SQL problems**, focused on
 | 626 | Exchange Seats | CASE, WHEN, MOD, COUNT, ORDER BY | [View](Medium/626-exchange-seats) |
 | 1045 | Customers Who Bought All Products | GROUP BY, COUNT, DISTINCT, HAVING | [View](Medium/1045-customers-who-bought-all-products) |
 | 1070 | Product Sales Analysis III | GROUP BY, MIN, SUBQUERY | [View](Medium/1070-product-sales-analysis-iii) |
+| 1158 | Market Analysis I | LEFT JOIN, GROUP BY, COUNT, YEAR | [View](Medium/1158-market-analysis-i) |
 | 1164 | Product Price at a Given Date | GROUP BY, MAX, SUBQUERY, UNION, COALESCE | [View](Medium/1164-product-price-at-a-given-date) |
 | 1174 | Immediate Food Delivery II | GROUP BY, MIN, AVG, ROUND, SUBQUERY | [View](Medium/1174-immediate-food-delivery-ii) |
 | 1193 | Monthly Transactions I | GROUP BY, COUNT, SUM, CASE, DATE_FORMAT | [View](Medium/1193-monthly-transactions-i) |
