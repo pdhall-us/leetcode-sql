@@ -6,10 +6,10 @@ A structured collection of my solutions to **LeetCode SQL problems**, focused on
 
 | **Difficulty** | **Solved** |
 | -------------- | ---------- |
-| 🟢 Easy        | 40         |
+| 🟢 Easy        | 41         |
 | 🟡 Medium      | 22         |
 | 🔴 Hard        | 3          |
-| **Total**      | **65**     |
+| **Total**      | **66**     |
 
 ## 📚 Problems
 
@@ -34,6 +34,7 @@ A structured collection of my solutions to **LeetCode SQL problems**, focused on
 | 619 | Biggest Single Number | GROUP BY, COUNT, HAVING, MAX | [View](Easy/619-biggest-single-number) |
 | 620 | Not Boring Movies | WHERE, MOD, ORDER BY | [View](Easy/620-not-boring-movies) |
 | 627 | Swap Sex of Employees | UPDATE, CASE, WHEN | [View](Easy/627-swap-sex-of-employees) |
+| 1050 | Actors and Directors Who Cooperated At Least Three Times | GROUP BY, COUNT, HAVING | [View](Easy/1050-actors-and-directors-who-cooperated-at-least-three-times) |
 | 1068 | Product Sales Analysis I | JOIN | [View](Easy/1068-product-sales-analysis-i) |
 | 1075 | Project Employees I | JOIN, GROUP BY, AVG, ROUND | [View](Easy/1075-project-employees-i) |
 | 1141 | User Activity for the Past 30 Days I | WHERE, GROUP BY, COUNT, DISTINCT | [View](Easy/1141-user-activity-for-the-past-30-days-i) |
