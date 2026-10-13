@@ -7,9 +7,9 @@ A structured collection of my solutions to **LeetCode SQL problems**, focused on
 | **Difficulty** | **Solved** |
 | -------------- | ---------- |
 | 🟢 Easy        | 50         |
-| 🟡 Medium      | 24         |
+| 🟡 Medium      | 25         |
 | 🔴 Hard        | 3          |
-| **Total**      | **77**     |
+| **Total**      | **78**     |
 
 ## 📚 Problems
 
@@ -96,6 +96,7 @@ A structured collection of my solutions to **LeetCode SQL problems**, focused on
 | 1731 | The Number of Employees Which Report to Each Employee | SELF JOIN, GROUP BY, COUNT, AVG, ROUND | [View](Medium/1731-the-number-of-employees-which-report-to-each-employee) |
 | 1907 | Count Salary Categories | UNION ALL, COUNT, CASE, WHERE | [View](Medium/1907-count-salary-categories) |
 | 1934 | Confirmation Rate | LEFT JOIN, GROUP BY, AVG, ROUND, CASE | [View](Medium/1934-confirmation-rate) |
+| 3421 | Find Students Who Improved | CTE, ROW_NUMBER, WINDOW FUNCTION, PARTITION BY, SELF JOIN, ORDER BY | [View](Medium/3421-find-students-who-improved) |
 
 ### 🔴 Hard
 
